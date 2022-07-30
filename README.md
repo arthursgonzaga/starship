@@ -17,4 +17,5 @@ Inspired for the [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) franchise,
 1. Clone the project
 2. Create python environment: `python3 -m venv django`
 3. Select virtual environment: `source django/bin/activate`
-4. Run the project: `python3 manage.py runserver`
+4. Install requirements: `pip install -r requirements.txt`
+5. Run the project: `python3 manage.py runserver`
