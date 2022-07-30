@@ -1,0 +1,6 @@
+# Django Folder
+django/
+
+# Cache files
+*.pyc
+*.cpython
